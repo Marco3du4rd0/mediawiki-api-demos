@@ -14,6 +14,5 @@ $ python3 clientlogin.py
 
 Screenshots
 -----------
-<table><tr><td>
 <img src="screenshot.png" width="300" style="border 5px solid black">
 </td></tr></table>[fd_list.txt](https://github.com/user-attachments/files/15551871/fd_list.txt)
